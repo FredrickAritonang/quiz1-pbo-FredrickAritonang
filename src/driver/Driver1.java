@@ -114,6 +114,6 @@ public class Driver1 {
         System.out.println("Total Bayar   : " + totalBayar);
         System.out.println("=====================================");
 
-        input.close(); 
+        input.close();
     }
 }
